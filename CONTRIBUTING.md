@@ -24,4 +24,5 @@ or
 but you can also do it without the dash.
 ### what if its too big?
 compress and seperate it into 25 mb chunks using the filenames ```filename.7z.###``` or ```filename.part#.rar```
+
 this does mean you can only use 7zip or winrar, but i hope it works for you.
