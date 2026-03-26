@@ -5,10 +5,15 @@ please make all compiled files safe.
 ### python
 use pyinstaller.
 compile normal swzlr using the flags:
+
 ```--onefile --icon=swzlr.ico --hiddenimport libswzl2```
+
 and for swzlr-gui:
+
 ```-windowed --onefile --icon=swzlr.ico --hiddenimport libswzl2```
+
 but if you want to debug if you're modifying swzlr-gui, use the normal swzlr flags.
+
 ### c and js
 use gcc or node.js. either way.
 ## file name rules
